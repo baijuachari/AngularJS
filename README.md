@@ -1,2 +1,2 @@
 # AngularJS
-AngularJS samples
+AngularJS sample programs
