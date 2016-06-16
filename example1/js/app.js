@@ -1,1 +1,5 @@
-var app = angular.module("tuts",[]);
+var myApp = angular.module("myApp",[]);
+
+myApp.controller('mainController', function() {
+	
+});
