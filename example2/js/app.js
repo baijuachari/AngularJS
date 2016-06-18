@@ -9,3 +9,10 @@ myApp.controller('mainController', function($scope) {
 	$scope.name = 'Baiju';
 	console.log($scope);
 });
+
+
+var myFunc = function(a,b) {
+
+}
+
+console.log(angular.injector().annotate(myFunc));
